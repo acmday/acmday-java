@@ -1,4 +1,4 @@
-package com.acmday.java.server.unit;
+package com.acmday.java.server.concurrent;
 
 import org.junit.jupiter.api.Test;
 
