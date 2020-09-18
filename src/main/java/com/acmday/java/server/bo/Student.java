@@ -1,4 +1,4 @@
-package com.acmday.java.server.component;
+package com.acmday.java.server.bo;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;

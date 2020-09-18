@@ -1,8 +1,8 @@
 package com.acmday.java.server.spring;
 
 import com.acmday.java.server.MainTests;
-import com.acmday.java.server.component.Student;
-import com.acmday.java.server.concurrent.spring.AwareUnit;
+import com.acmday.java.server.bo.Student;
+import com.acmday.java.server.unit.AwareUnit;
 import org.junit.jupiter.api.Test;
 
 import javax.annotation.Resource;

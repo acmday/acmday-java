@@ -1,6 +1,6 @@
-package com.acmday.java.server.concurrent.spring;
+package com.acmday.java.server.unit;
 
-import com.acmday.java.server.component.Student;
+import com.acmday.java.server.bo.Student;
 import lombok.Data;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.BeanFactory;
